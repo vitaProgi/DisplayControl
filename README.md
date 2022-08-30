@@ -1,1 +1,1 @@
-# DispleyControl
+# DisplayControl
